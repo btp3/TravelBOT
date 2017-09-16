@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Iron_Man/Desktop/retrofit-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Iron_Man/Desktop/okhttp-3.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Iron_Man/Desktop/gson-2.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Iron_Man/Desktop/converter-gson-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Iron_Man/Desktop/gpx-parser-0.9.jar" sourcepath="/Users/Iron_Man/Desktop/gpx-parser-0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/Iron_Man/Desktop/json-20160810.jar"/>
+	<classpathentry kind="lib" path="/Users/Iron_Man/Desktop/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Iron_Man/Desktop/okio-1.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
